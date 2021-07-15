@@ -1,0 +1,13 @@
+package com.example.shashank.biolive;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+
+public class loginDetails extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_login_details);
+    }
+}
